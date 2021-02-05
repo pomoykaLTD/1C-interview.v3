@@ -1,0 +1,14 @@
+1.Разложение чисел на простые множители: способы и примеры разложения 
+https://zaochnik.com/spravochnik/matematika/delimost/razlozhenie-chisel-na-prostye-mnozhiteli/
+
+2. Наименьшее общее кратное алгоритм нахождения наименьшего общего кратного cвязь между наибольшим общим делителем и наименьшим общим кратным двух натуральных чисел
+https://www.resolventa.ru/index.php/nok
+
+3. Нахождение НОД - алгоритм Евклида и другие способы.
+http://www.cleverstudents.ru/divisibility/nod_finding.html
+
+4. Простые и составные числа, таблица простых чисел, решето Эратосфена.
+http://www.cleverstudents.ru/divisibility/prime_and_composite_numbers.html
+
+5. Нахождение НОК - способы и примеры нахождения НОК.
+http://www.cleverstudents.ru/divisibility/nok_finding.html
